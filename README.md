@@ -5,14 +5,15 @@ This project analyses pain in multiple sclerosis (MS) and explores its relations
 # Languages and Packages Used
 Programming Language: R
 Packages:
- dplyr
- magrittr
- tableone
- ggplot2
- qqplot
- moments
- psych
- ggpubr
+•	dplyr
+•	magrittr
+•	tableone
+•	ggplot2
+•	qqplot
+•	moments
+•	psych
+•	ggpubr
+
 Tools:
 . RStudio
 . GitHub
