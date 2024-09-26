@@ -19,7 +19,7 @@ Tools:
 . GitHub
 
 # Key Learnings
-# Technical Skills
+## Technical Skills
  . Installing and using different R packages for data manipulation and analysis.
  . Understanding and applying different data manipulations for each research questions. 
  . Extracting key findings from analytical results
