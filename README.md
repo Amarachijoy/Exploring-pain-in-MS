@@ -16,32 +16,30 @@ Packages:
 
 
 Tools:
-. RStudio
-. GitHub
+- RStudio
+- GitHub
 
 # Key Learnings
 ## Technical Skills
- . Installing and using different R packages for data manipulation and analysis.
- . Understanding and applying different data manipulations for each research questions. 
- . Extracting key findings from analytical results
- . Applying statistical tests to determine the significance and normality of results.
- . Create tables and posters and visualise data with ggplot2 to highlight key findings. 
+- Installing and using different R packages for data manipulation and analysis.
+- Understanding and applying different data manipulations for each research questions. 
+- Extracting key findings from analytical results
+- Applying statistical tests to determine the significance and normality of results.
+- Create tables and posters and visualise data with ggplot2 to highlight key findings. 
 ## Communication Skills
-  . Reporting the project to effectively communicate key findings to technical and non-technical audiences. 
-  . Visualising the results to make findings comprehensible and engaging. 
-  . Presenting and demonstrating the findings to a group of health data research team. 
+- Reporting the project to effectively communicate key findings to technical and non-technical audiences. 
+- Visualising the results to make findings comprehensible and engaging. 
+- Presenting and demonstrating the findings to a health data research team group. 
 # Resolved Challenges
 ## Data Cleaning:
- . Data came in batches containing duplicate entries and numeric errors. Modified and reprocessed each CSV file using manipulation queries. 
-  . Handled data ensuring accurate data analysis.
+ - Data came in batches containing duplicate entries and numeric errors. Modified and reprocessed each CSV file using manipulation queries. 
+ - Handled data ensuring accurate data analysis.
 ## Statistical analysis:
- . Errors in the distribution of data as a result of entry errors. Applied normality tests to determine the distribution of each population.
+ - Errors in the distribution of data as a result of entry errors. Normality tests were used to determine the distribution of each population.
 
- ## Additional Reflections
- . Pain is prevalent in multiple sclerosis and this project reinforced pain as a central symptom of MS. instead of a unidimensional symptom. 
- . Pain is associated with levels of anxiety, depression and disability in people living with MS. Understanding the distribution and the statistical significance of the results ensured that conclusions were drawn based on strong evidence.
- . Communicating the findings through visualisations, report writing, and presentation is important in making the insights accessible to a broader audience. 
- . Future research and analysis could involve extracting data from more years and people of different ages, to further understand the nuances of pain in MS and optimise personalised treatments/interventions. 
+ ## Recommendations
+ - Overall, the results of this study help for better exploration of pain among people living with MS. The different levels of pain and their associations are necessary as their results would help for prioritised management and treatment of MS-related pain, anxiety, depression and physical disability.
+ - Future research and analysis could involve extracting data from more years and people of different ages, to further understand the nuances of pain in MS and optimise personalised treatments/interventions. 
 
  
 
