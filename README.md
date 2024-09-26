@@ -1,18 +1,19 @@
-### Exploring-pain-in-MS
+# Exploring-pain-in-MS
 
 # Summary
 This project analyses pain in multiple sclerosis (MS) and explores its relationship with MS-related anxiety, depression and physical disability. A longitudinal cohort was selected from the UKMSR that includes the population's demographics and symptoms. The analysis was carried out using R and RStudio, and the results were visualised to identify the differences in pain severity across MS patients and the association with anxiety, depression, and physical disability. 
 # Languages and Packages Used
 Programming Language: R
 Packages:
-•	dplyr
-•	magrittr
-•	tableone
-•	ggplot2
-•	qqplot
-•	moments
-•	psych
-•	ggpubr
+- dplyr
+- magrittr
+- tableone
+- ggplot2
+- qqplot
+- moments
+- psych
+- ggpubr
+
 
 Tools:
 . RStudio
