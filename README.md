@@ -22,7 +22,7 @@ Tools:
 # Key Learnings
 ## Technical Skills
 - Installing and using different R packages for data manipulation and analysis.
-- Understanding and applying different data manipulations for each research questions. 
+- Understanding and applying different data manipulations for each research question. 
 - Extracting key findings from analytical results
 - Applying statistical tests to determine the significance and normality of results.
 - Create tables and posters and visualise data with ggplot2 to highlight key findings. 
@@ -37,7 +37,7 @@ Tools:
 ## Statistical analysis:
  - Errors in the distribution of data as a result of entry errors. Normality tests were used to determine the distribution of each population.
 
- ## Recommendations
+ # Recommendations
  - Overall, the results of this study help for better exploration of pain among people living with MS. The different levels of pain and their associations are necessary as their results would help for prioritised management and treatment of MS-related pain, anxiety, depression and physical disability.
  - Future research and analysis could involve extracting data from more years and people of different ages, to further understand the nuances of pain in MS and optimise personalised treatments/interventions. 
 
